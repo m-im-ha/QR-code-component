@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/m-im-ha/QR-code-component)
+- Live Site URL: [qr-code-component](https://qr-code-component-jade-chi.vercel.app/)
 
 ## My process
 
@@ -31,7 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@m-im-ha](https://www.frontendmentor.io/profile/m-im-ha)
 - Twitter - [@m_im_ha](https://www.twitter.com/m_im_ha)
 
